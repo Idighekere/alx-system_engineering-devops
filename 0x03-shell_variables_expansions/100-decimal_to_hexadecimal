@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((FF#16))
+echo $((16#55))
